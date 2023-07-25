@@ -111,15 +111,15 @@ DP: data point, 大概指项目拒录的案例
 - **CS项目总览**: [https://csmsapp.org/](https://csmsapp.org/). 北美CS主流项目基本都囊括了, CSMSAPP最好的一点就是他的分级, 可以对于各个项目的bar有个初步了解. 以前学长也做过很好的总结[美研EE/ECE/CS项目大详解 (yuque.com)](https://www.yuque.com/2020seufly/guide/kc2lu1).
 - **一亩三分地**: [https://www.1point3acres.com/bbs/](https://www.1point3acres.com/bbs/). 地里集中在北美转码, 有大量真实数据, 制定选校的话可以看别人的**选校贴**, 或者去年录取的**总结帖**. 针对某个项目, 可以在地里找到**体验贴/比较贴**, 一般我采用如 ”[学校] [项目名] 一亩三分地” 这样的关键词在Google搜索.
   
-    <img src="images/Untitled.png" alt="Untitled" style="zoom: 50%;" />
+    ![Untitled](images/Untitled.png)
     
     这里推荐一个Telegram频道: [https://t.me/usgradapplication](https://t.me/usgradapplication), 这个频道从地里爬取了所有录取数据, 我的用法一般是针对具体项目, 搜索拒录dp, 通过看大量近几年的录取发放情况, 可以对项目bar有个更清楚的了解.
     
-    <img src="images/Untitled%201.png" alt="Untitled" style="zoom:50%;" />
+    ![Untitled](images/Untitled%201.png)
     
     但是有的时候我们发现并没有背景描述, 我们可以点击 ”主题”, 查看楼主的过往发帖记录, 也许可以看到楼主其他录取情况和自身背景.
     
-    <img src="images/Untitled%202.png" alt="Untitled" style="zoom: 50%;" />
+    ![Untitled](images/Untitled%202.png)
     
 - 寄托天下院校库: [https://schools.gter.net/](https://schools.gter.net/). 这里主要是欧洲的一些dp, 不需要充值会员就可以查看, 界面也很友好.
 - 知乎. 知乎每年都有申请相关问题 (如[2023 Fall 你都申请了哪些学校的 MA/MS/PhD/JD/MD/MFA，录取结果如何？](https://www.zhihu.com/question/360515552/)),  但是大部分回答都是PhD选手. 当然, 知乎也会有一些零星的申请总结文章.
@@ -194,11 +194,11 @@ DP: data point, 大概指项目拒录的案例
 
 转专业后的大二是非常折磨的, 我记得我们每天都需要上非常多的课, 这其实和转专业关系也不大, 主要是人工智能专业本身大二课就很多, 我觉得我应该是从早上到晚, 每周五天都要拉满, 周二周四更是从早8到晚9.
 
-<img src="images/Untitled%203.png" alt="Untitled" style="zoom: 33%;" />
+![Untitled](images/Untitled%203.png)
 
 本来大二下的话课会少一点, 但是由于转专业, 所以需要补课, 继续拉满. 大二一年课外基本没做什么了, 只有大二上参加了一个SRTP这一个但其实没有什么结果, 虽然是国创, 但是没什么用, 然后我简历上也没有写这一段经历. 主要是最大的收获, 就是让我接触到了李宏毅老师的深度学习课程, 这个课程至今都对我有很大的影响, 也是我正儿八经的深度学习启蒙. 通过这个SRTP项目, 也稍微了解一些科研的东西以及锻炼和一些debug的能力.
 
-<img src="images/Untitled%204.png" alt="Untitled" style="zoom:33%;" />
+![Untitled](images/Untitled%204.png)
 
 然后大二结束我去参加了导师的一个腾讯的眼底图像比赛, 然后暑假应该就一边玩, 一边去稍微做点比赛方面的事情, 然后也学习到不少知识, 因为我原先连pytorch dataloader都不太会写, 后面反正可以写很多东西了 这一段经历其实对我也算是比较好的一个锻炼吧, 代码能力包括以及些比赛tricky的了解. 我还是挺推荐**CV/NLP/ML入门的同学参加一个Kaggle啥的比赛熟悉一下的**.
 

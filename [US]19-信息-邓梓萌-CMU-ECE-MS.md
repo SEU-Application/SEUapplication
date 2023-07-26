@@ -112,7 +112,7 @@ a) 语文 (Verbal)
 
 考试的时候Verbal是分为两个section（遇上Verbal加试就是三个）考察的，每个section题型差不多，但是第一个section的Verbal难度是在medium上下，要认真对待，因为这部分做对的题目数量决定了你分数的区间(可见下图，源自[知乎](https://www.zhihu.com/answer/636074143)，感觉基本准确)，所以如果第一部分做的好，进入第二个Verbal section的时候难度就会变为hard，这个时候就可以舒口气了，因为不需要做对太多题就可以取得不错的分数。正是因为GRE Verbal算分是看你做对了多少题，所以学会进行一些战略性的放弃也是很重要的，做题的时候可以多做些medium难度的题，确保正确率，争取第二个section进入Hard模式！
 
-![GRE](https://i.imgur.com/LPWsRhR.jpg)
+![GRE](images/GRE.jpeg)
 
 b) 数学 (Quantitative)
 

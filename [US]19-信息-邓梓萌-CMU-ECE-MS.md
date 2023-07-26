@@ -14,15 +14,15 @@
 | **实习经历** | 无 |
 | **荣誉** | 企业奖，课程奖，都没写进文书 |
 | **推荐信** | 东大老师*3（1个教授+2个副教授） |
-|  |  |
+
 
 ## **录取结果**
 
 | 学校 | 项目名称 | 录取结果 | 个人评级 | 时间线 |
 | --- | --- | --- | --- | --- |
-| UCB | EECS-MEng | REJ | 彩票 | 12.27 Submit, 4.24 Reject |
+| UCB | EECS-MEng | <span style="color:red"> REJ </span>| 彩票 | 12.27 Submit, 4.24 Reject |
 | UT Austin | MSECE-DICE Track | REJ | 彩票 | 12.3 Submit, 5.11 Reject |
-| CMU | MSECE | AD | 冲刺 | 12.2 Submit, 2.18 Admit |
+| CMU | MSECE | <span style="color:green"> AD </span> | 冲刺 | 12.2 Submit, 2.18 Admit |
 | Gatech | MSECE | REJ | 冲刺 | 11.29 Submit, 4.15 Reject |
 | UCLA | MSECE-SS Track | REJ | 偏冲刺 | 12.1 Submit, 5.16 Reject |
 | IC | MSc Computing (AI and ML) | REJ | 偏冲刺 (本科专业不够匹配) | 11.24 Submit, 2.17 Reject |

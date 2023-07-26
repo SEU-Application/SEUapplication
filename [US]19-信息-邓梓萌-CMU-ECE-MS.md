@@ -33,7 +33,6 @@
 | Umich | MSECE-Network, Communication, and Information Systems area | AD | 平级偏保底 | 12.18 Submit, 2.27 Admit |
 | Columbia | MSEE | AD（小奖） | 保底 | 12.27 Submit, 2.9 Admit |
 | NTU | MSc Communication Engineering | AD | 保底 | 12.19 Submit, 2.10 Admit |
-|  |  |  |  |  |
 
 
 ## **申请季时间线** 

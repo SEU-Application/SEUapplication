@@ -31,12 +31,9 @@
 | UBC | ECE-Meng | REJ | 保底 |
 | Waterloo | ECE-Meng | REJ | 保底 |
 
-**申请季时间线 (可选)**
+**申请季时间线**
 
-```mermaid
-graph LR
-  大三结束暑假考托福7月份--> 大四上学期写文书9-12月-->提交申请材料11月-1月
-```
+![申请季时间线](images/[US]19-电气-崔筱曼-UCLA-ECE-MS_flowchart.png)
 
 **个人感悟**
 

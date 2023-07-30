@@ -1,5 +1,3 @@
-# [US]18-土木-林海巍-UCSD-Structure Engineering-PhD
-
 # **[US]18-土木-林海巍-UCSD-Structure Engineering-PhD**
 
 **“天坑专业”土木的PhD之路**

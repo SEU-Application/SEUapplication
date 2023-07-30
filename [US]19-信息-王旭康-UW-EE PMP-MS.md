@@ -26,7 +26,7 @@
 
 ## 申请季时间线
 
-![申请季时间线](images/[US]19-信息-王旭康-UW-EE-PMP-MS_flowchart.png)
+![申请季时间线](https://i.imgur.com/AC6w7bI.png)
 
 ## **个人感悟**
 

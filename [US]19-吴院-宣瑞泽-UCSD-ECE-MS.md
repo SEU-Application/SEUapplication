@@ -36,7 +36,7 @@
 
 ## **申请季时间线**
 
-![申请季时间线](images/[US]19-吴院-宣瑞泽-UCSD-ECE-MS_flowchart.png)
+![申请季时间线](https://i.imgur.com/3kCtkz0.png)
 
 ## **个人感悟**
 

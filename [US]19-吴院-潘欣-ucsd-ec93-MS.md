@@ -35,7 +35,7 @@
 
 ## 申请季时间线
 
-![申请季时间线](images/[US]19-吴院-潘欣-ucsd-ec93-MS_flowchart.png)
+![申请季时间线](https://i.imgur.com/Rs7oXC3.png)
 
 ## **个人感悟**
 

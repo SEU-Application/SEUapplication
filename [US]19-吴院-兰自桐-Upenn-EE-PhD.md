@@ -1,43 +1,43 @@
-# 4_[US]19-吴院-兰自桐-Upenn-EE-PhD
+# [US]19-吴院-兰自桐-Upenn-EE-PhD
 
 **小标题：申请——折腾与运气**
 
 **个人基础背景**
 
-| 东大GPA | 4.2/4.8 |
-| --- | --- |
-| 出国GPA | 3.96/4.0 |
-| TOEFL | 总分：104 阅读：28 听力：29 口语：23 写作：24 |
-| GRE | 总分：326 语文：156 数学：170 写作：3.5 |
-| 科研 | ccf-a二作；其他科研实习 |
-| 竞赛 | IEEE-CASS学生竞赛特等奖、高等数学竞赛（国省校奖）、电子设计竞赛及其他校奖 |
-| 交流经历 | 无 |
-| 实习经历 | 无企业实习经历 |
-| 荣誉 | 校长奖学金，三好学生等 |
-| 推荐信 | 国外大学导师推荐*2，国内研究所老师推荐*2，东大课程推*1，应该都是强推？ |
+|  |  |
+| ----- | ----------------------------------------- |
+| **出国GPA** | 3.96/4.0                                  |
+| **TOEFL** | 总分：104 阅读：28 听力：29 口语：23 写作：24            |
+| **GRE**   | 总分：326 语文：156 数学：170 写作：3.5               |
+| **科研**    | ccf-a二作；其他科研实习                            |
+| **竞赛**    | IEEE-CASS学生竞赛特等奖、高等数学竞赛（国省校奖）、电子设计竞赛及其他校奖 |
+| **交流经历**  | 无                                         |
+| **实习经历**  | 无企业实习经历                                   |
+| **荣誉**    | 校长奖学金，三好学生等                               |
+| **推荐信**   | 国外大学导师推荐_2，国内研究所老师推荐_2，东大课程推\*1，应该都是强推？   |
 
 **录取结果**
 
-| 学校 | 项目名称 | 录取结果 | 个人评级 |
-| --- | --- | --- | --- |
-| Stanford | EE-MS | REJ | 彩票 |
-| Caltech | EE-MS | REJ | 彩票 |
-| CMU | INI-MS | AD（无奖） | 平级 |
-| CMU | ECE-MS | REJ | 平级 |
-| ETHz | EEIT-MS | AD（无奖） | 平级 |
-| Gatech | ECE-MS | REJ | 平级 |
-| Umich | ECE-MS | AD（无奖） | 保底 |
-| Cornell | MEng-ECE | AD（无奖） | 保底 |
-| USC | ECE-MS | AD（无奖） | 保底 |
-| Upenn | ESE-PhD | AD（全奖） | 彩票 |
-| Rice | ECE-PhD | AD（全奖） | 彩票 |
-| Duke UCSD UW UCAL Columbia UIUC CMU | CS and ECE PhD | REJ | 彩票 |
+| 学校                                  | 项目名称           | 录取结果   | 个人评级 |
+| ----------------------------------- | -------------- | ------ | ---- |
+| Stanford                            | EE-MS          | REJ    | 彩票   |
+| Caltech                             | EE-MS          | REJ    | 彩票   |
+| CMU                                 | INI-MS         | AD（无奖） | 平级   |
+| CMU                                 | ECE-MS         | REJ    | 平级   |
+| ETHz                                | EEIT-MS        | AD（无奖） | 平级   |
+| Gatech                              | ECE-MS         | REJ    | 平级   |
+| Umich                               | ECE-MS         | AD（无奖） | 保底   |
+| Cornell                             | MEng-ECE       | AD（无奖） | 保底   |
+| USC                                 | ECE-MS         | AD（无奖） | 保底   |
+| Upenn                               | ESE-PhD        | AD（全奖） | 彩票   |
+| Rice                                | ECE-PhD        | AD（全奖） | 彩票   |
+| Duke UCSD UW UCAL Columbia UIUC CMU | CS and ECE PhD | REJ    | 彩票   |
 
-首先总结一下申请季的结果，包括MS和PhD在内总共提交了19份项目申请，包括**9个MS**项目，申请结果详细如上表格所示，除了彩票项目基本拿到了AD。以及**10个PhD**项目，包括**Duke(ECE), UCSD(ECE, HDSI), UW(CS), UCLA(ECE), Columbia(CS), UIUC(CS), Upenn(ECE), Rice(ECE), CMU(hcii).** 其中除了录取Upenn和Rice的全奖offer，以及decline了Duke的面试外，其他的PhD项目全都被Rej了。由于申请全奖PhD的特殊性，我认为所有的PhD申请都应该归类为“彩票”一档，它不具有MS申请的显性的bar（即三维达到标准即可）。
+首先总结一下申请季的结果，包括MS和PhD在内总共提交了19份项目申请，包括**9个MS**项目，申请结果详细如上表格所示，除了彩票项目基本拿到了AD。以及**10个PhD**项目，包括**Duke(ECE), UCSD(ECE, HDSI), UW(CS), UCLA(ECE), Columbia(CS), UIUC(CS), Upenn(ECE), Rice(ECE), CMU(hcii).** 其中除了录取Upenn和Rice的全奖offer，以及decline了Duke的面试外，其他的PhD项目全都被Rej了。由于申请全奖PhD的特殊性，我认为所有的PhD申请都应该归类为“彩票”一档，它不具有MS申请的显性的bar（即三维达到标准即可）。
 
 **申请季时间线**
 
-![](/images/image1.png)
+![](images/image1.png)
 
 详细的申请时间线如图所示。标记几个重要节点：7月末考出了托福（考了很多次，大家一定要把战线缩短，短期内把语言成绩解决）。8月初开始在外地实习，花了两个月速通了gre，在11.30之前掐点把gre送分给12.1ddl的项目，12.15之前集中提交了大部分项目申请书。
 
@@ -61,13 +61,13 @@ PhD申请，三维中以GPA最为重要，tg的语言成绩都是过线即可，
 
 推荐信/Connection：重中之重❗❗❗
 
-来到博士申请最关键的一环：推荐信和connection。凡Phd的申请者都会感叹：**connection is all you need!!!** 能够拥有海外老师（或国内大牛、圈子里互相认识的老师）的推荐信或者connection是一个big bonus，因为申请也讲究“人情世故”，海外的教授和委员会更倾向于录取有大牛老师为你的能力和research potential背书的申请者。当然，海外教授的推荐信基本来自于套辞暑研获得，这个话题又可以讲不少。。。
+来到博士申请最关键的一环：推荐信和connection。凡Phd的申请者都会感叹：**connection is all you need!!!** 能够拥有海外老师（或国内大牛、圈子里互相认识的老师）的推荐信或者connection是一个big bonus，因为申请也讲究“人情世故”，海外的教授和委员会更倾向于录取有大牛老师为你的能力和research potential背书的申请者。当然，海外教授的推荐信基本来自于套辞暑研获得，这个话题又可以讲不少。。。
 
 这里link一些别人的经验
 
 [https://www.1point3acres.com/bbs/thread-865931-1-1.html](https://www.1point3acres.com/bbs/thread-865931-1-1.html)
 
-[https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=496880&highlight=����](https://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=496880&highlight=%CA%EE%D1%D0)
+[https://www.1point3acres.com/bbs/forum.php?mod=viewthread\&tid=496880\&highlight=����](https://www.1point3acres.com/bbs/forum.php?mod=viewthread\&tid=496880\&highlight=%CA%EE%D1%D0)
 
 [https://www.1point3acres.com/bbs/thread-568855-1-1.html](https://www.1point3acres.com/bbs/thread-568855-1-1.html)
 
@@ -103,6 +103,6 @@ PhD申请，三维中以GPA最为重要，tg的语言成绩都是过线即可，
 
 有任何申请方面的问题，欢迎咨询我。
 
-Email: [ztlan@seas.upenn.edu](mailto:ztlan@seas.upenn.edu) (preferred)
+Email: [ztlan@seas.upenn.edu](mailto:ztlan@seas.upenn.edu) (preferred)
 
 Wechat: lzt20001219

@@ -20,19 +20,12 @@
 
 | 学校 | 项目名称 | 录取结果 | 个人评级 | 时间线 |
 | --- | --- | --- | --- | --- |
-| 牛津 | MSc in Applied Linguistics and Second Language Acquistion | Waiting List | 冲刺 | 11月初递交申请
-3月中旬面试 |
-| HKU | MPhil in Education | REJ | 彩票 | 8月和导师套磁失败，
-11月初递交申请，
-2月发拒信 |
-| 剑桥 | MPhil in Education (Research in Second Language Education) | AD（无奖） | 冲刺 | 11月初递交申请，
-12月底下offer |
-| 剑桥 | MPhil in Theoretical & Applied Linguistics | AD（无奖） | 冲刺 | 11月初递交申请，
-3月初下offer |
-| UCL | MA in Applied Linguistics | AD（无奖） | 保底 | 10月底申请，
-3天后下offer |
-| UCL | MA in English Linguistics | AD（无奖） | 保底 | 10月底申请，
-3月初下offer |
+| 牛津 | MSc in Applied Linguistics and Second Language Acquistion | Waiting List | 冲刺 | 11月初递交申请-3月中旬面试 |
+| HKU | MPhil in Education | REJ | 彩票 | 8月和导师套磁失败-11月初递交申请-2月发拒信 |
+| 剑桥 | MPhil in Education (Research in Second Language Education) | AD（无奖） | 冲刺 | 11月初递交申请-12月底下offer |
+| 剑桥 | MPhil in Theoretical & Applied Linguistics | AD（无奖） | 冲刺 | 11月初递交申请-3月初下offer |
+| UCL | MA in Applied Linguistics | AD（无奖） | 保底 | 10月底申请-3天后下offer |
+| UCL | MA in English Linguistics | AD（无奖） | 保底 | 10月底申请-3月初下offer |
 
 ## **申请季时间线**
 
